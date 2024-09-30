@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "build:ci": "CI= npm run build"
+    "build:ci": "CI=true npm run build"
   },
   "dependencies": {
     "lucide-react": "^0.446.0",
